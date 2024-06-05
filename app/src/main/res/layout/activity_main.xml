@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+/<?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
@@ -11,74 +11,73 @@
     <TextView
         android:layout_width="291dp"
         android:layout_height="wrap_content"
-
         android:layout_margin="50dp"
         android:background="#ffc108"
         android:padding="40sp"
         android:text="APP Devlopment "
         android:textColor="@color/black"
-        android:textSize="25sp"
+        android:textSize="25sp"/>
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="in App development we have three fields:"
+        android:text="In App development we have three fields:"
         android:textSize="35sp"
-        android:lineSpacingExtra="8sp"
+        android:lineSpacingExtra="8sp"/>
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="1) Android Development"
         android:textSize="25sp"
-        android:lineSpacingExtra="18sp"
+        android:lineSpacingExtra="18sp"/>
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="2) IOS Development"
         android:textSize="25sp"
-        android:lineSpacingExtra="18sp"
+        android:lineSpacingExtra="18sp"/>
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="3) Flutter"
         android:textSize="25sp"
-        android:lineSpacingExtra="18sp"
+        android:lineSpacingExtra="18sp"/>
     
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="This is the android class"
         android:textSize="35sp"
-        android:lineSpacingExtra="18sp"
+        android:lineSpacingExtra="18sp"/>
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="In this ,we will learn :"
         android:textSize="25sp"
-        android:lineSpacingExtra="18sp"
+        android:lineSpacingExtra="18sp"/>
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="1)  Kotlin"
         android:textSize="25sp"
-        android:lineSpacingExtra="18sp"
+        android:lineSpacingExtra="18sp"/>
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="2)  API"
         android:textSize="25sp"
-        android:lineSpacingExtra="18sp"
+        android:lineSpacingExtra="18sp"/>
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="3)  Database"
-        android:textSize="25sp"
+        android:textSize="25sp"/>
 
 </LinearLayout>
